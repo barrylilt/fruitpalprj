@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: YQian
+Class-Path: dependency/json-simple-1.1.1.jar dependency/mysql-connecto
+ r-java-5.1.18.jar
+Build-Jdk: 1.8.0_131
+Created-By: Maven Integration for Eclipse
+Main-Class: fruitpalprj.fruitpalprj.App
+
